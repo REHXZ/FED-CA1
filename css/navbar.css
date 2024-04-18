@@ -1,0 +1,36 @@
+/* Navigation Bar Style */
+
+.navbar {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  height: 80px;
+  padding-right: 20px;
+}
+
+.navbar li {
+  float: left;
+}
+
+.navbar ul li a {
+  display: block;
+  color: white;
+  float: left;
+  text-decoration: none;
+  padding: 15px 10px;
+  font-size: 18px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',Geneva, Verdana, sans-serif;
+}
+
+/* Hover Link */
+.navbar ul li a:hover {
+  border-radius: 3px;
+  background-color: white;
+  color: black;
+}
+
+/* logo max height */
+.logo {
+ height: 80px;
+}

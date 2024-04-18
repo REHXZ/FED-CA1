@@ -1,0 +1,69 @@
+/* Main Content */
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+/* different list types and styles */
+article.values ul {
+  list-style-type: upper-roman;
+  margin-top: 30px;
+  margin-left: 40px;
+  line-height: 1.5rem;
+}
+
+article.personality ul {
+  list-style-type: upper-roman;
+  margin-top: 30px;
+  margin-left: 40px;
+  line-height: 1.5rem;
+}
+
+/* mid page heading  */
+.Midpage {
+  text-align: center;
+  padding:150px 0px 150px 0px;
+  font-family: 'Anton', sans-serif;
+  font-size: 5em;
+  letter-spacing: 4px;
+}
+
+/* youtube video in index */
+.youtube {
+  padding: 50px 0px 250px 15.5%;
+}
+
+/* 6 key points in sustainability.html */
+.sp{
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+/* 6 key points images */
+.imagesp{
+    border-radius: 10px;
+    background: greenyellow;
+    box-shadow: 0 0 20px greenyellow;
+}
+
+/* 6 points of sp images for list (gif)  */
+.list{
+  padding-left: 35px;
+  text-align: left;
+  list-style-image: url(../images/search.gif);
+}
+
+/* about me header to be centered */
+.aboutme{
+  padding: 0px 10px 10px 10px;
+  text-align: center;
+}
+
+/* about me header to be left */
+.about{
+  padding: 0px 10px 10px 10px;
+  text-align: left;
+}
+
+/* about me header to be right */
+.about2{
+  padding: 0px 10px 10px 10px;
+  text-align: right;
+}

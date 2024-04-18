@@ -1,0 +1,42 @@
+/* CSS Reset */
+@import url('https://fonts.googleapis.com/css2?family=Arya&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+/* Basic Styles for classes*/
+
+html {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+  width: 100%
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  font-size: 22px;
+  line-height: 25px;
+  font-family: 'Arya', sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 25px;
+  margin-bottom: 20px
+}
+
+ul li {
+  font-size: 14px;
+}
+

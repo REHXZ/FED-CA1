@@ -1,0 +1,60 @@
+/* Two Column Layout */
+
+.flex-two-col {
+  display: flex;
+  margin: 50px auto;
+  max-width: 1200px;
+}
+
+.flex-two-col-sp {
+  display: flex;
+  margin: 50px auto;
+  max-width: 1200px;
+  gap: 20px;
+}
+.flex-two-col-banner {
+  display: flex;
+  margin: 50px auto;
+  max-width: 1200px;
+  justify-content: center;
+  padding-bottom: 75px;
+}
+
+.column-one {
+  width: 50%;
+  margin: 0px 20px;
+}
+
+.column-two {
+  width: 50%;
+  margin: 0px 20px;
+}
+
+/* Three Column Layout */
+
+.flex-three-col {
+  padding-top: 10px;
+  display: flex;
+  margin: 50px auto;
+  max-width: 1200px;
+}
+
+.three-column-one {
+  width: 33.33%;
+  margin: 0px 20px;
+  padding-bottom: 200px;
+}
+
+.three-column-two {
+  width: 33.33%;
+  margin: 0px 20px;
+}
+
+.three-column-three {
+  width: 33.33%;
+  margin: 0px 20px;
+}
+
+
+
+
